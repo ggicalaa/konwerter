@@ -1,0 +1,8 @@
+#' mil_do_km Jest to funkcja konwertuj¹ca wartoœci z mil l¹dowych na kilometry
+#' 
+#' Pakiet pozwala na zamianê wartoœci podanych w milach l¹dowych na wartoœci w kilometrach
+#' 
+#' Instalacja pakietu
+#' install_github("ggicalaa/konwerter")
+#'
+#' Pakiet u¿yteczny jest w sytuacji, kiedy chcemy szybko i dok³adnie przekonwertowaæ wartoœci z mil l¹dowych na kilometry
